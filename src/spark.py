@@ -1,3 +1,4 @@
+# Copyright (c) 2020 Natan Nascimento Oliveira Matos (natanascimentom@outlook.com)
 import os
 import subprocess
 
