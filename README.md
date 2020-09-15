@@ -7,7 +7,7 @@ Configuring PySpark for run project using a environment variable
 ## **Configuring variable environment 📃**
 Using bash
 ```sh
-export 'SPARK_PROJECTS'='caminho_do_projeto'
+export 'SPARK_PROJECTS'='repository_of_project'
 ```
 
 # 
@@ -20,7 +20,7 @@ Upgrade to latest version
 ```sh
 pip install --upgrade jupyterthemes
 ```
-## **Configuring Themes 📃**
+## **Configuring Theme 🎨**
 ```sh
 jt -t onedork -fs 85 -altp -tfs 10 -nfs 95 -cellw 80% -T
 ```
