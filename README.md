@@ -4,9 +4,10 @@
 Configuring PySpark for run project using a environment variable
 
 # 
-## **Configuring variable enviroment 📃**
+## **Configuring variable environment 📃**
+Using bash
 ```sh
-export 'SPARK_PROJECTS'='caminho_do_spark'
+export 'SPARK_PROJECTS'='caminho_do_projeto'
 ```
 
 # 
