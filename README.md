@@ -21,6 +21,11 @@ Upgrade to latest version
 pip install --upgrade jupyterthemes
 ```
 ## **Configuring Theme 🎨**
+Using bash
 ```sh
-jt -t onedork -fs 85 -altp -tfs 10 -nfs 95 -cellw 80% -T
+jt -t onedork -fs 110 -tfs 13 -nfs 95 -cellw 90%
+```
+Using Jupyter Notebook **(Add !)**
+```sh
+!jt -t onedork -fs 110 -tfs 13 -nfs 95 -cellw 90%
 ```
